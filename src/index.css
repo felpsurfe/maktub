@@ -16,7 +16,7 @@
 body {
   background: var(--areia);
   color: var(--madeira);
-  font-family: sans-serif;
+  font-family: 'DM Sans', sans-serif;
 }
 
 .header {
@@ -131,4 +131,8 @@ body {
     flex-direction: column;
     gap: 12px;
   }
+}
+
+h1, h2, .logo {
+  font-family: 'Fraunces', serif;
 }

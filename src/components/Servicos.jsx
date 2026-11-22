@@ -14,7 +14,7 @@ function Servicos() {
         texto="Aulas de pilates para cuidar do corpo com calma e leveza."
       />
       <Card
-      id="Yoga"
+      id="yoga"
       titulo="Yoga"
       texto="Aulas de Yoga para cuidar e equilibrar corpo e mente."
       />
