@@ -3,11 +3,11 @@ function Header () {
         <header className="header">
             <span className="logo">Maktub</span>
             <nav>
-                <a href="#inicio">Inicio</a>
-                <a href="#Surf">Surf</a>
-                <a href="#Pilates">Pilates</a>
-                <a href="#Sobre">Sobre Nós</a>
-                <a href="#Contato">Fale conosco</a>
+                <a href="#inicio">Início</a>
+                <a href="#surf">Surf</a>
+                <a href="#silates">Pilates</a>
+                <a href="#sobre">Sobre Nós</a>
+                <a href="#contato">Fale conosco</a>
             </nav>
         </header>
     )
